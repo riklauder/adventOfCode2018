@@ -1,0 +1,8 @@
+#files 
+*.exe 
+*.obj 
+*.pdb 
+*.db
+
+#folders
+.vs
