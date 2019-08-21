@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\rikla\Source\Repos\fun\adventOfCode2018\three\three\Source.cpp(27,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\rikla\Source\Repos\fun\adventOfCode2018\three\three\Source.cpp(55,19): warning C4018:  '>': signed/unsigned mismatch
+C:\Users\rikla\Source\Repos\fun\adventOfCode2018\three\three\Source.cpp(63,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\rikla\Source\Repos\fun\adventOfCode2018\three\three\Source.cpp(100,13): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+  three.vcxproj -> C:\Users\rikla\Source\Repos\fun\adventOfCode2018\three\three\Debug\three.exe
